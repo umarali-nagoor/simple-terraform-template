@@ -1,9 +1,9 @@
 # Configure these variables
 
-variable "NAME" {
+variable "type" {
   description = "The name to pass to the template."
 }
 
-variable "region" {
+variable "location" {
   description = "Region"
 }

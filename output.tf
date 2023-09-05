@@ -5,3 +5,7 @@ output "template_file" {
 output "template_file_new" {
     value = data.template_file.test2.rendered
 }
+
+output "template_file_new2" {
+    value = data.template_file.test3.rendered
+}

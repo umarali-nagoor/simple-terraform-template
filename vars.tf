@@ -2,7 +2,7 @@
 
 variable "TYPE" {
   description = "The name to pass to the template."
-  default = "tyre1"
+  default = "tyre2"
 }
 
 /*variable "location" {

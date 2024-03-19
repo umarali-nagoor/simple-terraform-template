@@ -5,7 +5,7 @@ variable "TYPE" {
   default = "tyre2"
 }
 
-/*variable "location" {
+variable "location" {
   description = "Location to deploy"
   default = "us-south"
 }
@@ -14,4 +14,4 @@ variable "flavor" {
   description = "Falvor type."
   default = "c3f6"
 }
-*/
+
